@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello! 👋
+
+### My name is Haley and I am a senior at the University of Pittsburgh pursuing a Bachelor's in Statistics with a minor in Computer Science.
+
+- 📫 How to reach me: horlofske@gmail.com
+- 😄 Pronouns: she/her
 
 <!--
 **hmo8/hmo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
