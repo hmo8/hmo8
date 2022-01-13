@@ -1,6 +1,6 @@
-# Hello! 👋
+# Hello, I'm Haley! 👋
 
-### My name is Haley and I am a senior at the University of Pittsburgh pursuing a Bachelor's in Statistics with a minor in Computer Science.
+### I am a senior at the University of Pittsburgh pursuing a Bachelor's in Statistics with a minor in Computer Science.
 
 - 📫 How to reach me: horlofske@gmail.com
 - 😄 Pronouns: she/her
